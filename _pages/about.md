@@ -30,7 +30,7 @@ Our team consists of four teachers, thirteen doctoral candidates, two master can
 * First prize in Privacy-Preserving Computing Hackathon, 2022
 
 :computer: Programs
-------
+======
 * Key research and development projects of Shenzhen.
 * Projects of Beijing Municipal Science and Technology Commission.
 * Federated learning and privacy computing platform: [Bonfire-IIE](https://github.com/Bonfire-IIE)
@@ -38,7 +38,7 @@ Our team consists of four teachers, thirteen doctoral candidates, two master can
 
 
 :guardsman: Lab Members
-------
+======
 
 
 :page_with_curl: For more info
