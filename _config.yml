@@ -21,7 +21,7 @@ repository               : "Bonfire-IIE/Bonfire-IIE.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bonfire.png"
   name             : "Bonfire-IIE"
   pronouns         : # example: "she/her"  
   bio              : "Data Security Laboratory @IIE"
