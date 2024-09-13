@@ -22,7 +22,7 @@ Our team consists of four teachers, thirteen doctoral candidates, two master can
 * 2024.07 :tada::tada: **CipherDM: Secure Three-Party Inference for Diffusion Model Sampling** has been accepted by ECCV2024!
 * 2024.03 :tada::tada: **DualCOS: Query-Efficient Data-Free Model Stealing with Dual Clone Networks and Optimal Samples** has been accepted by ICME2024!
 * 2024.03 :tada::tada: **STMS: An Out-Of-Distribution Model Stealing Method Based on Causality** has been accepted by IJCNN2024!
-......
+* **......**
 
 
 :trophy: Selected Awards
@@ -33,6 +33,7 @@ Our team consists of four teachers, thirteen doctoral candidates, two master can
 ------
 * Key research and development projects of Shenzhen.
 * Projects of Beijing Municipal Science and Technology Commission.
+* Federated learning and privacy computing platform: [Bonfire-IIE](https://github.com/Bonfire-IIE)
 
 
 
@@ -42,4 +43,4 @@ Our team consists of four teachers, thirteen doctoral candidates, two master can
 
 :page_with_curl: For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about our laboratory can be found in the [Lab_Page](https://Bonfire-IIE.github.io/). If you want to contact us, please send email to [Bonfire-IIE](mailto:zhaoxin@iie.ac.cn).
