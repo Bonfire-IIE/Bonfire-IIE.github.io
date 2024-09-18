@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2022-09-19-PrUE
 excerpt: '**(Knowledge Distillation)** This paper is about the Machine Learning and Knowledge Discovery in Databases.'
-date: 2021-10-04
+date: 2023-05-17
 venue: 'ECML-PKDD2022'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-26409-2_7'
 citation: 'Shaopu, Wang. (2022). &quot;PrUE: Distilling Knowledge from Sparse Teacher Networks.&quot; <i>ECML-PKDD2022</i>.'
