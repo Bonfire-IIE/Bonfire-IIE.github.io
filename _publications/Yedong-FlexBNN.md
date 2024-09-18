@@ -2,7 +2,7 @@
 title: "FlexBNN: Fast Private Binary Neural Network Inference With Flexible Bit-Width"
 collection: publications
 category: manuscripts
-permalink: /publication/Yedong-FlexBNN
+permalink: /publication/2023-04-06-FlexBNN
 excerpt: '**(MPC)** This paper is about the private binary Neural Network inference.'
 date: 2023-04-06
 venue: 'IEEE Transactions on Information Forensics and Security'
