@@ -13,11 +13,11 @@ Established with a passion for scientific exploration and innovation, our labora
 Our team consists of four teachers, thirteen doctoral candidates, two master candidates and one visiting student. With a diverse group of talented individuals, our laboratory is a vibrant hub of research and innovation. We look forward to sharing our findings and collaborating with others in the pursuit of a more secure artificial intelligence future.
 
 
-:loudspeaker: Latest News
+🔥 Latest News
 ======
-* 2024.08 :tada::tada: **Client Relevance-Aware Adaptive Aggregation for Personalized Federated Learning** has been accepted by ICONIP2024!
-* 2024.08 :tada::tada: **Progtuning: Progressive Fine-tuning Framework for Transformer-based Language Models** has been accepted by ICONIP2024!
-* 2024.08 :tada::tada: **CoFD: Contribution-based Federated Knowledge Aggregation Scheme for Federated Distillation** has been accepted by ICONIP2024!
+* 2024.08 🎉🎉 **Client Relevance-Aware Adaptive Aggregation for Personalized Federated Learning** has been accepted by ICONIP2024!
+* 2024.08 🎉🎉 **Progtuning: Progressive Fine-tuning Framework for Transformer-based Language Models** has been accepted by ICONIP2024!
+* 2024.08 🎉🎉: **CoFD: Contribution-based Federated Knowledge Aggregation Scheme for Federated Distillation** has been accepted by ICONIP2024!
 * 2024.08 :tada::tada: **FLIGHT: Lightweight and Backdoor-Resistant Secure Aggregation** has been accepted by ACSAC2024!
 * 2024.07 :tada::tada: **Privacy-preserving Desion Tree** has been accepted by SecureComm 2024!
 * 2024.07 :tada::tada: **CipherDM: Secure Three-Party Inference for Diffusion Model Sampling** has been accepted by ECCV2024!
