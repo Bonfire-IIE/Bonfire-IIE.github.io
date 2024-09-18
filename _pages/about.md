@@ -12,7 +12,6 @@ Established with a passion for scientific exploration and innovation, our labora
 
 Our team consists of four teachers, thirteen doctoral candidates, two master candidates and one visiting student. With a diverse group of talented individuals, our laboratory is a vibrant hub of research and innovation. We look forward to sharing our findings and collaborating with others in the pursuit of a more secure artificial intelligence future.
 
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 :loudspeaker: Latest News
 ======
