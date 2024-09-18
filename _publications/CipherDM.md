@@ -3,7 +3,7 @@ title: "CipherDM: Secure Three-Party Inference for Diffusion Model Sampling"
 collection: publications
 category: conferences
 permalink: /publication/2024-09-18-CipherDM
-excerpt: 'This paper is about secure inference for Diffusion Model sampling.'
+excerpt: '**(AI Security)** This paper is about secure inference for Diffusion Model sampling.'
 date: 2024-09-18
 venue: 'ECCV2024,Preprint'
 paperurl: 'https://arxiv.org/abs/2409.05414'
