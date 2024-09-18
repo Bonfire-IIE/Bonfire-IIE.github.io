@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Generalized heterophily graph data augmentation for node classification"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2023-09-11-GePHo
+excerpt: '**(GNN)** This paper is about graph neural networks.'
+date: 2023-09-11
+venue: 'Neural Networks'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0893608023005142'
+citation: 'Bisheng, Tang. (2023). &quot;Generalized heterophily graph data augmentation for node classification.&quot; <i>Neural Networks</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Graph data augmentations have demonstrated remarkable performance on homophilic graph neural networks (GNNs). Nevertheless, when transferred to a heterophilic graph, these augmentations are less effective for GNN models and lead to reduced performance. To address this issue, we propose a unified augmentation approach called GePHo, a regularization technique for heterophilic graph neural networks based on self-supervised learning, leveraging graph data augmentation to acquire extra information to guide model learning. Specifically, we propose to generate a pseudo-homophily graph that is type-agnostic, enabling us to apply GePHo to both homophilic and heterophilic graphs. Then, we regularize the neighbors with a sharpening technique for data augmentation and generate the auxiliary pseudo-labels to classify the original GNN’s output, whose operations are to constrain the local and global node representation, respectively. Extensive experiments on three homophilic graph and six heterophilic graph datasets demonstrate the competitive effectiveness of GePHo in node classification task, and the ablation experiments verify the efficacy of our GePHo in graph data augmentation.
