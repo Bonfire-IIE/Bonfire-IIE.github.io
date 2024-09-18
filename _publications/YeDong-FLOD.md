@@ -3,7 +3,7 @@ title: "FLOD:Oblivious Defender for Private Byzantine-Robust Federated Learning 
 collection: publications
 category: conferences
 permalink: /publication/2021-10-04-FLOD
-excerpt: '**(MPC)** This paper is about the private inference for Federated Learning .'
+excerpt: '**(MPC)** This paper is about the private inference for Federated Learning.'
 date: 2021-10-04
 venue: 'ESORICS 2021'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-88418-5_24'
@@ -32,4 +32,4 @@ gation (VSWA) signi cantly. Experiments on real-world and synthetic
 vergence, (ii) achieves a reduction of 2 for o ine (resp. online) over
 head of Bit2A and VSWA compared to ABY-AHE (resp. ABY-MT) based
  methods (NDSS15), (iii) and reduces total online communication and
- run-time by 167-1416 and 31-74 compared to FLGUARD
+ run-time by 167-1416 and 31-74 compared to FLGUARD.
