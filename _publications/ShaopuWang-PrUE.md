@@ -2,7 +2,7 @@
 title: "PrUE: Distilling Knowledge from Sparse Teacher Networks"
 collection: publications
 category: conferences
-permalink: /publication/2022-09-19-PrUE
+permalink: /publication/2023-05-17-PrUE
 excerpt: '**(Knowledge Distillation)** This paper is about the Machine Learning and Knowledge Discovery in Databases.'
 date: 2023-05-17
 venue: 'ECML-PKDD2022'
