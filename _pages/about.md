@@ -44,4 +44,4 @@ Our team consists of four teachers, thirteen doctoral candidates, two master can
 
 📃 For more info
 ------
-More info about our laboratory can be found in the [Lab_Page](https://Bonfire-IIE.github.io/). If you want to contact us, please send email to [Bonfire-IIE](mailto:zhaoxin@iie.ac.cn).
+More info about our laboratory can be found in the [Lab_Page](https://Bonfire-IIE.github.io/). If you want to contact us, please send email to **zhaoxin@iie.ac.cn**.
