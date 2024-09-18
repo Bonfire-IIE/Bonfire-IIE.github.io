@@ -17,20 +17,20 @@ Our team consists of four teachers, thirteen doctoral candidates, two master can
 ======
 * 2024.08 🎉🎉 **Client Relevance-Aware Adaptive Aggregation for Personalized Federated Learning** has been accepted by ICONIP2024!
 * 2024.08 🎉🎉 **Progtuning: Progressive Fine-tuning Framework for Transformer-based Language Models** has been accepted by ICONIP2024!
-* 2024.08 🎉🎉: **CoFD: Contribution-based Federated Knowledge Aggregation Scheme for Federated Distillation** has been accepted by ICONIP2024!
-* 2024.08 :tada::tada: **FLIGHT: Lightweight and Backdoor-Resistant Secure Aggregation** has been accepted by ACSAC2024!
-* 2024.07 :tada::tada: **Privacy-preserving Desion Tree** has been accepted by SecureComm 2024!
-* 2024.07 :tada::tada: **CipherDM: Secure Three-Party Inference for Diffusion Model Sampling** has been accepted by ECCV2024!
-* 2024.03 :tada::tada: **DualCOS: Query-Efficient Data-Free Model Stealing with Dual Clone Networks and Optimal Samples** has been accepted by ICME2024!
-* 2024.03 :tada::tada: **STMS: An Out-Of-Distribution Model Stealing Method Based on Causality** has been accepted by IJCNN2024!
+* 2024.08 🎉🎉 **CoFD: Contribution-based Federated Knowledge Aggregation Scheme for Federated Distillation** has been accepted by ICONIP2024!
+* 2024.08 🎉🎉 **FLIGHT: Lightweight and Backdoor-Resistant Secure Aggregation** has been accepted by ACSAC2024!
+* 2024.07 🎉🎉 **Privacy-preserving Desion Tree** has been accepted by SecureComm 2024!
+* 2024.07 🎉🎉 **CipherDM: Secure Three-Party Inference for Diffusion Model Sampling** has been accepted by ECCV2024!
+* 2024.03 🎉🎉 **DualCOS: Query-Efficient Data-Free Model Stealing with Dual Clone Networks and Optimal Samples** has been accepted by ICME2024!
+* 2024.03 🎉🎉 **STMS: An Out-Of-Distribution Model Stealing Method Based on Causality** has been accepted by IJCNN2024!
 * **......**
 
 
-:trophy: Selected Awards
+🏆 Selected Awards
 ======
 * First prize in Privacy-Preserving Computing Hackathon, 2022
 
-:computer: Programs
+💻 Programs
 ======
 * Key research and development projects of Shenzhen.
 * Projects of Beijing Municipal Science and Technology Commission.
@@ -38,10 +38,10 @@ Our team consists of four teachers, thirteen doctoral candidates, two master can
 
 
 
-:guardsman: Lab Members
+💂‍♂️ Lab Members
 ======
 
 
-:page_with_curl: For more info
+📃 For more info
 ------
 More info about our laboratory can be found in the [Lab_Page](https://Bonfire-IIE.github.io/). If you want to contact us, please send email to [Bonfire-IIE](mailto:zhaoxin@iie.ac.cn).
